@@ -3,7 +3,10 @@
 
 Tiny Planet is a cozy, map‑driven disaster preparedness game built with **React, Vite, TypeScript, Zustand, and TailwindCSS**.  
 It blends playful animation with real‑world skills, helping players learn gentle preparedness strategies without fear.
+---
 
+## 👥 Contributors
+Sana Tasneem Azimudin • Nivriti Muthu Vairavan • Yashika V • Sharmu R
 ---
 
 ## ✨ Features
