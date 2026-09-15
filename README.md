@@ -1,5 +1,4 @@
 # 🌍 Tiny Planet
-# 🌍 Tiny Planet
 
 ## 🪐 About Tiny Planet
 
